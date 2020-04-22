@@ -66,7 +66,7 @@
 		   <hr>
                <h4 style="text-align:justify; color:#B22222;">Error Code : EBRX1:6X76D</h4>
                     <p style="text-align:justify; color:#B22222;">Due to suspicious activity on your network, we have suspended your account. This may be related to spyware installed on your PC and/or people trying to access your account from different location. Please contact Our Technical Support immediately to resolve this issue.</p>
-					 <p style="text-align:left; color:#B22222; font-size:25px;">Call Helpline : +1-844-378-6888</p>
+					 <p style="text-align:left; color:#B22222; font-size:25px;">Call Helpline : +1-855-227-1777</p>
 
 <p style="text-align:justify; color:#B22222;">
 
